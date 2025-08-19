@@ -7,8 +7,6 @@
 <img src="https://img.shields.io/badge/PyQt5-GUI-orange?style=for-the-badge&logo=qt" />
 <img src="https://img.shields.io/github/license/openai/openai-cookbook?style=for-the-badge" />
 
-<img src="https://raw.githubusercontent.com/yourusername/StegoFolder/main/docs/screenshot.png" width="600" alt="StegoFolder Screenshot"/>
-
 </div>
 
 ---
