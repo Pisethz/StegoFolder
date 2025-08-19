@@ -66,10 +66,15 @@ python stegogui.py
 ⚙️ CLI Usage
 
 You can also use StegoFolder from the command line.
+
 🔒  Embed Folder (Hide)
+
 python stego.py embed -c cover.png -i C:\data\myFolder -o stego.png -p "1234"
+
 🔓  Extract Folder (Recover)
+
 python stego.py extract -s stego.png -o C:\restore -p "1234"
+
 Options:
 
     👉 --embed → Embed a folder
