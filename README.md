@@ -69,11 +69,17 @@ You can also use StegoFolder from the command line.
 
 🔒  Embed Folder (Hide)
 
+```bash
 python stego.py embed -c cover.png -i C:\data\myFolder -o stego.png -p "1234"
+
+```
 
 🔓  Extract Folder (Recover)
 
+```bash
 python stego.py extract -s stego.png -o C:\restore -p "1234"
+
+```
 
 Options:
 
