@@ -32,11 +32,14 @@ pip install -r requirements.txt
 
 ```
 
-🖥️ Usage
+## 🖥️ Usage
 
 Run the GUI:
 
+```bash
 python stegogui.py
+
+```
 
 ---
 💻 GUI Instructions
